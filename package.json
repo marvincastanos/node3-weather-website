@@ -1,7 +1,6 @@
 {
   "name": "web-server",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +12,16 @@
     "postman-request": "^2.88.1-postman.30"
   },
   "engines": {
-     "node": "14.x"
-  }
+    "node": "14.x"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marvincastanos/node3-weather-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marvincastanos/node3-weather-website/issues"
+  },
+  "homepage": "https://github.com/marvincastanos/node3-weather-website#readme",
+  "description": ""
 }
-
